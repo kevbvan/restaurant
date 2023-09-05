@@ -11,8 +11,8 @@
 
 ### Screenshots
 
-![Successful get Call](/RestaurantWebsite/media/insomnia_get.png)
-To test the whether the backend was working, Xinyu was used Insomnia and was able to get all of the menu items from out database.
+![Successful get Call](/media/getMenuScreenShot.png)
+To test the whether the backend was working, Insomnia was able to get all of the menu items from out database.
 
 
 ###  Problems and Challenges
@@ -28,7 +28,7 @@ Initially we had both frontend and backend setup in the same repo. However, our 
 
 ### Screenshots
 
-![Updated Json](/RestaurantWebsite/media/json.png)
+![Updated Json](/media/json.png)
 For the database and our website, we will be using the id, name, desc, and img link. The rate and country will not be used for this project.
 
 ### Problems and Challenges
@@ -42,11 +42,11 @@ While we were deciding on what details to include, the images were not originall
 - Implement route, controller and and DAO for getSearchItem and getSearchID so that customers can search food by id as well as by typing substring of a given food.
 
 ### Screenshots
-![searchByName1](/RestaurantWebsite/media/searchByName1.png)
+![searchByName1](/media/searchByName1.png)
 A search result that returns a list of matching search objects: 'me'
-![searchByName2](/RestaurantWebsite/media/searchByName2.png)
+![searchByName2](/media/searchByName2.png)
 A search result that returns only one matching name search: 'Calamari'
-![searchByID](/RestaurantWebsite/media/searchByID.jpg)
+![searchByID](/media/searchByID.jpg)
 A search result that returns only one matching id search: 'chip-dip'
 
 ### Problems and Challenges

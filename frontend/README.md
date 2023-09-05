@@ -17,10 +17,10 @@ For Iteration 1, we connected backend to passing data from Mongodb and implement
 Had several routes that we needed to configure the path, and how to coordinate the data transfering
 
 ### Screenshots
-![homepage](/RestaurantWebsite/media/homepage.png)
+![homepage](/media/homepage.png)
 Home Page for the Restaurant
 
-![menu](/RestaurantWebsite//media/menudemo.png)
+![menu](/media/menudemo.png)
 Layout of the Menu Page
 
 <br/>
@@ -36,28 +36,28 @@ For Iteration 2, we have successfully made persistency for the customer adding t
 - Creating About Page
 
 ### Screenshots
-![GetMenuScreenShot](/RestaurantWebsite/media/getMenuScreenShot.png)
+![GetMenuScreenShot](/media/getMenuScreenShot.png)
 Insomnia Test for retrieving Menu
 
-![databaseJsonScreenShot](/RestaurantWebsite/media/databaseJsonScreenShot.png)
+![databaseJsonScreenShot](/media/databaseJsonScreenShot.png)
 JSON for Menu
 
-![aboutPageScreenShot](/RestaurantWebsite/media/aboutPageScreenShot.png)
+![aboutPageScreenShot](/media/aboutPageScreenShot.png)
 Layout of the About Page
 
-![cartByUserIdScreenShot](/RestaurantWebsite/media/cartByUserIdScreenShot.png)
+![cartByUserIdScreenShot](/media/cartByUserIdScreenShot.png)
 Insomnia Test for retrieving checkout cart
 
-![checkoutSuccessScreenShot](/RestaurantWebsite/media/checkoutSuccessScreenShot.png)
+![checkoutSuccessScreenShot](/media/checkoutSuccessScreenShot.png)
 Insomnia Test for successful chekout
 
-![addToCartDBScreenShot](/RestaurantWebsite/media/addToCartDBScreenShot.png)
+![addToCartDBScreenShot](/media/addToCartDBScreenShot.png)
 MongoDB of successful user cart registration
 
-![OrderAddToCartScreenShot](/RestaurantWebsite/media/OrderAddToCartScreenShot.png)
+![OrderAddToCartScreenShot](/media/OrderAddToCartScreenShot.png)
 Adding an item to the checkout cart
 
-![orderAddToDBScreenShot](/RestaurantWebsite/media/orderAddToDBScreenShot.png)
+![orderAddToDBScreenShot](/media/orderAddToDBScreenShot.png)
 MondoDB of successful order
 
 <br/>
@@ -75,19 +75,19 @@ For Iteration 3, we further implemented the checking out. Reloading and logging 
 - Implemented function deleteCart, research and implement search function by adding filter and update corresponding controllers for getMenu function so that customers can search by typing name of the food.
 
 ### Screenshots
-![searchBar](/RestaurantWebsite/media/searchBar.png)
+![searchBar](/media/searchBar.png)
 Fully implemented Search Bar
 
-![searchKeyWords](/RestaurantWebsite/media/searchKeyWords.png)
+![searchKeyWords](/media/searchKeyWords.png)
 Search Result based on Category (Dessert)
 
-![sidebar](/RestaurantWebsite/media/sidebar.png)
+![sidebar](/media/sidebar.png)
 Side Bar for Menu Page
 
-![orderhistory](/RestaurantWebsite/media/orderhistory.png)
+![orderhistory](/media/orderhistory.png)
 Past Order History
 
-![checkoutpage](/RestaurantWebsite/media/checkoutpage.png)
+![checkoutpage](/media/checkoutpage.png)
 Checkout Confirmation Page
 
 ### Challenges
